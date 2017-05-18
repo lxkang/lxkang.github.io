@@ -17,8 +17,8 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: Zhuang Ma
-organization: lxkang.github.io
-organization_url: http://lxkang.github.io
+organization:
+organization_url:
 github_username:lxkang
 location:China
 email: chumpma@gmail.com
