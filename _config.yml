@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://mazhuang.org
+#url: http://mazhuang.org
 date_format: "ordinal"
 title: lxkang的学习笔记
 subtitle: "学习笔记"
