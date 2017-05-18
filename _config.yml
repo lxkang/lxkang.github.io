@@ -77,12 +77,12 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: lxkang/lxkang.github.io
 
 # ---------------- #
 #      Socials     #
 # ---------------- #
-github_username: Wwwwei
+github_username: lxkang
 #douban_username: freedim
 #facebook_username: mzlogin
 #weibo_username: mzlogin
