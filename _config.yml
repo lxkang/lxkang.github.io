@@ -16,12 +16,11 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
-organization:
-organization_url:
-github_username:lxkang
-location:China
-email: chumpma@gmail.com
+author: lxkang
+organization: Individual
+#organization_url: https://www.sogou.com
+location: China
+email:
 
 # ---------------- #
 #    Navigation    #
@@ -81,19 +80,36 @@ collections:
 repository: mzlogin/mzlogin.github.io
 
 # ---------------- #
+#      Socials     #
+# ---------------- #
+github_username: Wwwwei
+#douban_username: freedim
+#facebook_username: mzlogin
+#weibo_username: mzlogin
+#zhihu_username: mzlogin
+#twitter_username: mzlogin
+
+# ---------------- #
 #      Comments    #
 # ---------------- #
-# support provider: disqus, netease_gentie
-comments_provider: netease_gentie
-# !!!重要!!! 请修改下面这些信息为你自己申请的
-# !!!Important!!! Please modify infos below to yours
+# support provider: disqus, duoshuo
+comments_provider: disqus
+# !!!重要!!! 请修改下面两个用户名为你自己申请的
+# !!!Important!!! Please modify usernames below to yours
+duoshuo_username: mazhuang
 disqus_username: mzlogin
-netease_gentie_key: 560ed243b708465d82d5a0a5f3b83da1
-# 在使用网易云跟帖时可点击显示 Disqus
-lazy_load_disqus : true
+# 在使用 disqus 的时候可点击显示多说评论框
+lazy_load_duoshuo: true
 
 # ---------------- #
 #    Analytics     #
 # ---------------- #
 google:
     analytics_id: UA-80669434-1
+
+# ---------------- #
+#      Datas       #
+# ---------------- #
+skill_software_keywords: [Java, C++, Python, Design Patterns]
+skill_mobile_app_keywords: [Android, Reverse Engineering]
+skill_windows_keywords: [Win32 SDK, DuiLib, WTL, COM, WinDbg]
